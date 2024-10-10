@@ -1,0 +1,2 @@
+,weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+0,"[{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]",stations,10000,1728572185,3600,6690877,Brixton,200,-0.1023,51.4574,284.82,283.84,283.66,285.88,1008,69,1008,1003,4.12,360,40,2,2019646,GB,1728540972,1728580688
